@@ -94,6 +94,6 @@ Enter an expression: 1 + 2 + 2000
 Incorrect input: numbers cannot exceed 1000. Program terminated, please try again.
 ```
 
-## Question 4 (25 points)
+## Question 4 (5 points per Bug. Limit : 30)
 
 It is a worthwhile exercise to work through an example to understand the depth of problems that can occur when dealing with memory in C, and to appreciate how Rust can prevent such bugs. In the file vector.c, I have provided an implementation of a vector library (i.e. resizable array). It contains several bugs relating to the properties of memory safety, containment and access. Your task is to find out as many bugs you can. Also, you are expected to give a small explanation of how you arrived at theses bugs. You can possibly give upto 10 bugs, you will be only awarded marks for correct bugs.
